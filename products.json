@@ -1,0 +1,37 @@
+{
+  "phones": [
+    {
+      "id": "iphone_11_pro_max_001",
+      "name": "iPhone 11 Pro Max",
+      "price": "P 4,700",
+      "condition_label": "Pre-Loved",
+      "storage": "256GB",
+      "color": "Midnight Green",
+      "condition_detail": "Comes with original box + accessories. Free screen protector and pouch included.",
+      "specs": "6.5-inch display, 4K triple camera system, new battery with 100% health",
+      "notes": "Screen replaced but works perfectly. Face ID not functional. Everything else works as expected.",
+      "extras": "Swaps and top-ups allowed. Receipt issued after purchase.",
+      "images": [
+        "https://dl.dropboxusercontent.com/scl/fi/2baxc9nnw3h8wue92m66p/accessible_electronicsbw_03-May-2025-1.jpg",
+        "https://dl.dropboxusercontent.com/scl/fi/2em5gqvqllrf8if70xiez/accessible_electronicsbw_03-May-2025-3.jpg",
+        "https://dl.dropboxusercontent.com/scl/fi/dm0cz3k5gucjlvu65imwn/accessible_electronicsbw_03-May-2025-6.jpg"
+      ]
+    },
+    {
+      "id": "iphone_xr_002",
+      "name": "iPhone XR",
+      "price": "P 2,800",
+      "condition_label": "Used - Good",
+      "storage": "128GB",
+      "color": "Blue",
+      "condition_detail": "Light scratches on back, no cracks.",
+      "specs": "6.1-inch LCD display, single camera, 90% battery health",
+      "notes": "Battery health at 90%. No accessories included.",
+      "extras": "Cash or mobile money only.",
+      "images": [
+        "https://www.dropbox.com/scl/fi/bcjnj9mkusxdfeohiry2w/accessible_electronicsbw_03-May-2025-2.jpg",
+        "https://www.dropbox.com/scl/fi/jr6s6iirk151x7diewlyv/accessible_electronicsbw_03-May-2025-5.jpg"
+      ]
+    }
+  ]
+}
